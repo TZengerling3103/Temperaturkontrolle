@@ -1,0 +1,21 @@
+.content{
+ margin: 110px; 
+}
+.container{
+    margin: 0px;
+}
+.sign-in{
+    width: 150px;
+    margin: 50px;
+    margin-bottom: 0px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    display:flex;
+}
+.logo{
+    display: flex;
+}
+nav{
+    background-color: lightgray;
+}
