@@ -1,21 +1,30 @@
 .content{
  margin: 110px; 
 }
-.container{
-    margin: 0px;
-}
 .sign-in{
-    width: 150px;
-    margin: 50px;
-    margin-bottom: 0px;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-    display:flex;
+    margin-top: 35%;
 }
 .logo{
     display: flex;
 }
+.infocontainer{
+    background-color:aliceblue;
+    padding: 50%;
+}
+.chart{
+    display: flex;
+    align-items: center;
+    justify-content: right;
+
+}
+.sensinfo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 nav{
-    background-color: lightgray;
+    background-color: blue;
+}
+.circle{
+    margin-right: 120px;
 }
